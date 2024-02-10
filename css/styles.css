@@ -75,3 +75,31 @@ h2{
     height: 150vh;
     
 }
+.div-footer{
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 10px 0px;
+}
+.footer-card{
+    background-color: black;
+    border: solid 3px rgb(71, 69, 69);
+    color: white;
+}
+.button-card{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+.button-card:hover{
+    background-color: #8f8e8d;
+    color: black;
+}
+.bg-body{
+    background-color: #1d1c1c;
+}
