@@ -129,3 +129,6 @@ h2{
 .fondo-body{
     background-color: #1d1c1c;
 }
+.navbar-toggler-icon{
+    color: white;
+}
